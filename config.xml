@@ -8,9 +8,9 @@
         version   = "1.0.0">
 
     <name>race to maps</name>
-
+ 
     <description>
-        race to the other maps by finishing loops but you will get faster every loop
+       race to the other maps by finishing loops but you will get faster every loop
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
